@@ -11,6 +11,8 @@ Maps.me recently released an update that shot up the map styles. A friend asked 
 In case you didn't know, KMZ files are simply zipped KML files, so you can extract a KML file from each KMZ.
 
 ## Usage
+Download the release here: https://github.com/DeepHyperspace/KML_Converter_maps.me_to_google/releases
+
 1. First open the KML file you want to convert, by clicking the open KML file button
 2. Select the number of placemarks per KML file and optionally a country, if you want to use this filter, otherwise just leave it blank.
 3. Then click on the convert and save button to start the conversion.
