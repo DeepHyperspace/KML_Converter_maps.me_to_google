@@ -4,6 +4,9 @@ If you want to migrate a large Map with over 2000 placemarks to google my maps,
 you might get an error that the import is limited to 2000 placemarks. 
 Another problem was, that the symbols and colors of Maps from Maps.me were not transferred to Google Maps / Earth. I was also able to solve this problem.
 
+## Why?
+Maps.me recently released an update that shot up the map styles. A friend asked me for help, so I wrote this program for him. Maybe someone else can use it.
+
 
 ## Usage
 
