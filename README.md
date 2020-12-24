@@ -60,9 +60,10 @@ So i wrote an interpreter that checks the colorname like "red", and calculates t
 
 Another thing i did, was that i used InquisitorJax tool to filter the Placemarks by country.
 Imagine you have a Map with 30.000 placemarks all over the world. So with his tool, you can interpret geocordinates like <coordinates>6.9545449,48.283129</coordinates>
-and get the country of that placemark. So you can create country specific KML-files. Currently supportet are Points and Lines.
+and get the country of that placemark. So you can create country specific KML-files. Currently supported placemark types are points and lines.
 
 ## Packages i used for this project
-Contribs go to: https://github.com/InquisitorJax/Wibci.CountryReverseGeocode InquisitorJax for his awesome tool-port
+Contribs go to: https://github.com/InquisitorJax/Wibci.CountryReverseGeocode InquisitorJax for his awesome tool-port.
+
 Get it from nuget here: https://www.nuget.org/packages/Wibci.CountryReverseGeocode/
 
