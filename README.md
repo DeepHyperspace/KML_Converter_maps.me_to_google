@@ -62,6 +62,10 @@ Another thing i did, was that i used InquisitorJax tool to filter the Placemarks
 Imagine you have a Map with 30.000 placemarks all over the world. So with his tool, you can interpret geocordinates like <coordinates>6.9545449,48.283129</coordinates>
 and get the country of that placemark. So you can create country specific KML-files. Currently supported placemark types are points and lines.
 
+## Notes
+This was just a quick and dirty project i did in some hours, please dont expect high quality standards ;-)
+Nevertheless you can contact me in case of errors.
+
 ## Packages i used for this project
 Contribs go to: https://github.com/InquisitorJax/Wibci.CountryReverseGeocode InquisitorJax for his awesome tool-port.
 
