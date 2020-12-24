@@ -2,17 +2,15 @@
 This tool can help migrate maps.me KML-files to google (maps/earth). 
 If you want to migrate a large Map with over 2000 placemarks to google my maps,
 you might get an error that the import is limited to 2000 placemarks. 
-Another problem was, that the symbols and colors of Maps from Maps.me were not transferred to Google Maps / Earth. I was also able to solve this problem.
-
-## Tipp
-In case you didn't know, KMZ files are simply zipped KML files, so you can extract a KML file from each KMZ.
+Another problem ist, that the symbols and colors of KML-files from Maps.me are not transferred to Google Maps / Earth. I was able to solve these problems.
 
 ## Why?
 Maps.me recently released an update that shot up the map styles. A friend asked me for help, he tried to import a backup KML file to google, he exported from maps.me, but all his stylings where lost. So I wrote this program for him that can edit and migrate this KML-files. Maybe someone else has a use for it.
 
+## Tipp
+In case you didn't know, KMZ files are simply zipped KML files, so you can extract a KML file from each KMZ.
 
 ## Usage
-
 1. First open the KML file you want to convert, by clicking the open KML file button
 2. Select the number of placemarks per KML file and optionally a country, if you want to use this filter, otherwise just leave it blank.
 3. Then click on the convert and save button to start the conversion.
