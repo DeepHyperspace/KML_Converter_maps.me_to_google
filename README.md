@@ -8,8 +8,7 @@ Another problem was, that the symbols and colors of Maps from Maps.me were not t
 In case you didn't know, KMZ files are simply zipped KML files, so you can extract a KML file from each KMZ.
 
 ## Why?
-Maps.me recently released an update that shot up the map styles. A friend asked me for help because he wanted to migrate to google, so I wrote this program for him.
-But when he tried to import the KML file he exported from maps.me all his stylings where lost. Maybe someone else can use it.
+Maps.me recently released an update that shot up the map styles. A friend asked me for help, he tried to import a backup KML file to google, he exported from maps.me, but all his stylings where lost. So I wrote this program for him that can edit and migrate this KML-files. Maybe someone else can use it.
 
 
 ## Usage
