@@ -36,6 +36,8 @@ The basic problem is, that maps.me kml-files use a stylemark like this:
 ```
 
 Google uses something like this.
+The color google my maps uses are located in the style id (icon-1899-HEXCOLOR-normal)
+The color that google earth uses are located in the colortag (<color>ff0288D1</color>)
 ```
     <Style id="icon-1899-0288D1-normal">
       <IconStyle>
