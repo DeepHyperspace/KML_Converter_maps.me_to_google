@@ -48,7 +48,7 @@ Google uses something like this.
       </LabelStyle>
     </Style>
 ```
-So i wrote an interpreter that interpres the colorname like red, and calculates the hexcode and adds it to the placemarks and styles.
+So i wrote an interpreter that checkts the colorname like "red", and calculates the hexcode and adds it to the placemarks and styles.
 
 Another thing i did, was that i used InquisitorJax tool to filter the Placemarks by country.
 Imagine you have a Map with 30.000 placemarks all over the world. So with his tool, you can interpret geocordinates like <coordinates>6.9545449,48.283129</coordinates>
