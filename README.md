@@ -55,6 +55,6 @@ Imagine you have a Map with 30.000 placemarks all over the world. So with his to
 and get the country of that placemark. So you can create country specific KML-files. Currently supportet are Points and Lines.
 
 ## Packages i used for this project
-Contribs go to: https://github.com/InquisitorJax/Wibci.CountryReverseGeocode
-InquisitorJax for his awesome port: https://www.nuget.org/packages/Wibci.CountryReverseGeocode/
+Contribs go to: https://github.com/InquisitorJax/Wibci.CountryReverseGeocode InquisitorJax for his awesome tool-port
+Get it from nuget here: https://www.nuget.org/packages/Wibci.CountryReverseGeocode/
 
